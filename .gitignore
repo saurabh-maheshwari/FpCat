@@ -17,6 +17,7 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+project/target/
 logs/
 project/*-shim.sbt
 project/project/
